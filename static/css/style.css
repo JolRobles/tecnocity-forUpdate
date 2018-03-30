@@ -57,7 +57,7 @@ img{
     position: relative;
 }
 .banner-dott {
-    background: url(../images/tecnocity.png)repeat 0px 0px;
+    background: url(../images/fondo.png)repeat 0px 0px;
     background-size: 2px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
@@ -238,7 +238,7 @@ ul.nav.navbar-nav {
 	text-transform: uppercase;
 }
 .navbar-header h1 a span {
-    color: #FFC107;
+    color: #2aacfc;
     font-size: 14px;
     display: block;
     line-height: 1px;
@@ -286,7 +286,7 @@ ul.nav.navbar-nav {
     font-size: 20px;
     margin-right: 5px;
     color: #009688;
-    color: #FFC107;
+    color: #2aacfc;
 }
 .book-form input[type="text"],.book-form input[type="date"],.book-form input[type="text"],.book-form input[type="email"] {
       width: 100%;
@@ -590,7 +590,7 @@ span.simply-word {
 	box-shadow: 0px 1px 29px 0px rgba(0,0,0,0.75);
 }
 .grid1:hover {
-    background: #ffc107;
+    background: #2aacfc;
 }
 .grid1 h4 {
     font-size: 20px;
@@ -676,7 +676,7 @@ span.simply-word {
     border-top: 1px solid #c5c5c5;
 }
 .faq .panel-default span.glyphicon {
-    color: #FFC107;
+    color: #2aacfc;
     margin-right: 1em;
 }
 .faq .panel-title {
@@ -894,7 +894,7 @@ span.simply-word {
     text-decoration: none;
     border: 2px solid #009688;
     color: #009688;
-    background: #ffc107;
+    background: #2aacfc;
     font-size: 18px;
     text-align: center;
     padding: 4px;
@@ -1102,7 +1102,7 @@ section.portfolio-agileinfo .nav-tabs > li > a {
     font-size: 17px;
     color: #fff;
 	border:none;
-    background-color: #ffc107;
+    background-color: #2aacfc;
     font-weight: normal;
 }	
 section.portfolio-agileinfo .nav-tabs {
@@ -1290,7 +1290,7 @@ iframe {
     -moz-transition: .5s ease-in;
 }
 .mail-grid1-form input[type="submit"]:hover{
-    background: #FFC107;
+    background: #2aacfc;
 }
 .map iframe {
     width: 100%;
@@ -1320,7 +1320,7 @@ h3.tittle-w3 {
     color: #009688;
     font-size: 28px;
     vertical-align: middle;
-    border-right: 3px solid #FFC107;
+    border-right: 3px solid #2aacfc;
     padding: 0.4em .4em 0.4em 0em;
 }
 /*-- //contact*/
@@ -1478,7 +1478,7 @@ h3.tittle-w3 {
 	}
 	.mail-agileits-w3layouts i {
 		font-size: 25px;
-		border-right: 2px solid #FFC107;
+		border-right: 2px solid #2aacfc;
 		padding: 0.4em .4em 0.4em 0em;
 	}
 	.contact-right {
