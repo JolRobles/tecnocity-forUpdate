@@ -32,7 +32,7 @@ six==1.11.0
 static3==0.7.0
 tldextract==1.6
 unicodecsv==0.13.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 virtualenv-clone==0.2.6
 whitenoise==3.3.1
